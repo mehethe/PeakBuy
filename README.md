@@ -4,14 +4,14 @@ Modern E-commerce Platform with MERN Stack
 
 ## Key Features:
 
-  ### User Authentication and Authorization:
-  - Signing up and logging in with email along with email verification.
-  - Forgot and reset password features for enhanced user account security.
-  - Firebase Authentication for secure user authentication, including login with Google.
-  - JSON Web Tokens (JWT) for managing user sessions and authorization.
+### User Authentication and Authorization:
+- Signing up and logging in with email along with email verification.
+- Forgot and reset password features for enhanced user account security.
+- Firebase Authentication for secure user authentication, including login with Google.
+- JSON Web Tokens (JWT) for managing user sessions and authorization.
 
 ### Category and Product Management:
-- Allow administrators to create, update, and delete product categories.
+- Allows administrators to create, update, and delete product categories.
 - Product management includes features such as uploading images, setting descriptions, pricing, and managing inventory levels.
 - Product variations such as color and size, allowing for detailed product specifications.
 
@@ -33,7 +33,7 @@ Modern E-commerce Platform with MERN Stack
 - Generates invoices for completed orders, providing users with a detailed summary of their purchases.
 - PDF format for easy viewing, printing, and sharing.
 
-### Discount Management and Voucher Coupon Management:
+### Discount and Voucher Coupon Management:
 - Discounts can be specified as flat-rate or percentage-based, offering flexibility in promotional strategies.
 - Discounts can be applied to individual products or entire categories, allowing for targeted promotions.
 - Voucher coupons can be created with conditions such as expiry date, minimum purchase limit, and discount type.
@@ -41,6 +41,9 @@ Modern E-commerce Platform with MERN Stack
 ### Data Visualization:
 - Data visualization with charts and graphs representing key metrics such as sales, orders.
 - Allows customization and filtering options to view data over specific periods such as the last 7 days, last 30 days, etc.
+
+### Verified Purchase and Review:
+- Allows users to leave reviews and ratings for products they have purchased, contributing to the overall product rating and feedback system.
 
 ### SEO Optimization:
 - Implements React-Helmet to manage SEO metadata dynamically for each page.
@@ -62,4 +65,4 @@ Modern E-commerce Platform with MERN Stack
 
 ## Live Demo:
 - [https://peak-buy.onrender.com/](https://peak-buy.onrender.com/)
-- Rendering spins down free web services when they become inactive for a while, and spinning them up again upon a request may take **up to 50 seconds. Please be patient upon the first load.**
+- Render spins down free web services when they become inactive for a while, and spinning them up again upon a request may take **up to 50 seconds. Please be patient upon the first load.**
