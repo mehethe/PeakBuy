@@ -64,5 +64,5 @@ Modern E-commerce Platform with MERN Stack
 - **Additional Services:** Cloudinary (for image storage), Stripe (for payment processing).
 
 ## Live Demo:
-- [https://peak-buy.onrender.com/](https://peak-buy.onrender.com/)
-- Render spins down free web services when they become inactive for a while, and spinning them up again upon a request may take **up to 50 seconds. Please be patient upon the first load.**
+- [https://peak-buy.onrender.com/](https://peakbuy.luminatech.agency/)
+
